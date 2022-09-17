@@ -1,3 +1,4 @@
+drop database estoque;
 create database estoque;
 
 use estoque;
